@@ -48,21 +48,20 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </p>
 
+<img align="left" style="width:48%; margin-right:2%;" src="https://github-readme-stats.vercel.app/api?username=nngosoftware&show_icons=true&locale=en" alt="nngosoftware" />
 
-<img align="left" style="margin-right:20px;" src="https://github-readme-stats.vercel.app/api?username=nngosoftware&show_icons=true&locale=en" alt="nngosoftware" />
+<img align="left" style="width:48%;" src="https://github-readme-streak-stats.herokuapp.com/?user=nngosoftware&" alt="nngosoftware" />
 
-<img align="left" style="margin-right:20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=nngosoftware&" alt="nngosoftware" />
+<img align="center" style="width:48%; margin-top:30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nngosoftware&show_icons=true&locale=en&layout=compact" alt="nngosoftware" />
 
-<img align="left" style="margin-right:20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nngosoftware&show_icons=true&locale=en&layout=compact" alt="nngosoftware" />
-
-<div style="clear:both;"></div>
-
+<!--
 <div align="left" style="margin-top:20px;">
     <a href="https://www.buymeacoffee.com/nngosoftware" style="margin-right:20px;">
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="36" width="140" alt="nngosoftware" />
     </a>
 
     <a href="https://ko-fi.com/nngosoftware">
-        <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="36" width="140" alt="nngosoftware" />
+        <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="36" width="140" alt="nngosoftware"/>
     </a>
 </div>
+-->
