@@ -1,4 +1,5 @@
 
+[![](https://visitcount.itsvg.in/api?id=yasar-ibrahim&icon=5&color=1)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ysr.ibocan66) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yasar-ibrahim) 
 
@@ -19,4 +20,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yasar-ibrahim&icon=5&color=1)](https://visitcount.itsvg.in)
+
